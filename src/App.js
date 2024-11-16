@@ -1,7 +1,6 @@
 import React from 'react';
 import DocumentUpload from './components/DocumentUpload';
 import { ToastContainer } from 'react-toastify';
-import { cloneElement } from 'react';
 import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
